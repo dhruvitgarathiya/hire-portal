@@ -1,8 +1,35 @@
-# React + Vite
+# Hire Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack job portal application built with the MERN stack.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **User Authentication**
+- **Job Search**
+- **Application Management**
+
+## Technologies Used
+- React.js
+- Node.js
+- MongoDB
+
+## Installation
+1. Clone the repository.
+2. Install dependencies with `npm install`.
+
+## Usage
+Start the server with `npm start`.
+
+## Contributing
+Feel free to submit a pull request!
+
+## License
+This project is licensed under the MIT License.
+
